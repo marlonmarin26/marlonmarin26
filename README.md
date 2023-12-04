@@ -14,7 +14,7 @@
 
 - 🌍 Exploring the vast world of Web Development and diving into the realm of digital creation.
 
-- 📚 Enthusiastic student of Web Development, always seeking opportunities to expand my skills and knowledge.
+- 📚 Enthusiastic student of Systems Engineering and Computer Science, always seeking opportunities to expand my skills and knowledge.
 
 <br>
 
